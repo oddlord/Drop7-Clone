@@ -1,4 +1,4 @@
-# HTML5/Javascript - Drop7
+# Drop7 Clone
 
 This is a clone in HTML5 and Javascript of the game [Drop7](https://en.wikipedia.org/wiki/Drop7), available for Android and iOS.
 
